@@ -1,5 +1,15 @@
 # linkdin_bulk_disconnector
 disconnect your oldest connections easily
+
+## disclamer
+
+this software is made just for educational perposes so use it at your own risks.
+there is a potential that your account gets banned or permenantly blocked.
+
+THIS SOFTWARE IS PROVIDED BY DEVELOPERS AND CONTRIBUTORS “AS IS”.
+THIS SOFTWARE IS MADE JUST FOR EDUCATIONAL PERPOSES AND HAS ABSOLUTLY NO WARRANTIES SO USE IT AT YOUR OWN RISKS.
+
+
 ## how to install
 
 ### clone the project
@@ -57,6 +67,9 @@ you can use this project by siply running the `main.py` file.
 ** make sure that virtual enviroment is activated **
 
 `python main.py`
+
+
+
 
 
 
