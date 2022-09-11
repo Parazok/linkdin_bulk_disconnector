@@ -4,7 +4,7 @@ disconnect your oldest connections easily
 ## disclamer
 
 this software is made just for educational perposes so use it at your own risks.
-there is a potential that your account gets banned or permenantly blocked.
+there is a serious potential that your account get banned or permenantly blocked by linkedin.
 
 THIS SOFTWARE IS PROVIDED BY DEVELOPERS AND CONTRIBUTORS “AS IS”.
 THIS SOFTWARE IS MADE JUST FOR EDUCATIONAL PERPOSES AND HAS ABSOLUTLY NO WARRANTIES SO USE IT AT YOUR OWN RISKS.
@@ -35,7 +35,7 @@ make a virtual enviroment:
 
 then make it active:
 
-`source venv/bin/activate'
+`source venv/bin/activate`
 
 ### install requeirments
 use this command to install all required packages:
