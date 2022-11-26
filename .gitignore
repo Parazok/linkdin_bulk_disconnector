@@ -1,3 +1,6 @@
 *.xlsx
 curl.txt
 venv/
+__pycache__/
+.vscode/
+.session*
