@@ -98,7 +98,7 @@ def read_session_files():
             headers = {}
             for l in f.readlines():
                 k, v = l.strip().split("wtf!$this$h!t")
-                cookies[k] = v
+                headers[k] = v
     finally:          
         return cookies, headers
 
